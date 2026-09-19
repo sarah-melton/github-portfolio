@@ -2,7 +2,7 @@
 
 
 
-I am currently studying a Level 5 Data Analytics course and continuing to build experience in data analysis, UX, digital design, and accessibility. This portfolio showcases projects that reflect my skills in data cleaning, exploratory analysis, data visualisation, dashboard design, and communicating insights effectively.
+I am currently studying a Level 5 Data Analytics course and continuing to build experience in data analysis. My background is in UX, digital design, and accessibility. This portfolio showcases projects that reflect my skills in data cleaning, exploratory analysis, data visualisation, dashboard design, and communicating insights effectively.
 
 
 
@@ -24,9 +24,9 @@ I am currently studying a Level 5 Data Analytics course and continuing to build 
 
 \- Dashboard Design
 
-\- UX and Digital Accessibility
+\- Predictive Modelling (Multiple Linear Regression, Random Forest)
 
-\- AI tools for research and validation
+Time Series Analysis (ARIMA)
 
 
 
@@ -46,7 +46,7 @@ This portfolio will include projects in:
 
 \## About Me
 
-I am particularly interested in accessible, user-focused analysis that helps turn complex data into clear business insights and better decision-making.
+I am particularly interested in delivering accessible analysis that helps turn complex data into clear business insights and better decision-making.
 
 
 
