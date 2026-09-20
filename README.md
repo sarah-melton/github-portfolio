@@ -26,7 +26,7 @@ I am currently studying a Level 5 Data Analytics course and continuing to build 
 
 \- Predictive Modelling (Multiple Linear Regression, Random Forest)
 
-Time Series Analysis (ARIMA)
+\-Time Series Analysis (ARIMA)
 
 
 
