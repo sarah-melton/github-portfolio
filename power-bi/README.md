@@ -8,4 +8,4 @@ The dashboard includes DAX calculations, bookmarks, slicers and visualisations t
 
 The report aims to support business decision-making by identifying high-performing products, profitable product categories, major customer markets and overall sales trends that can assist management in improving future sales strategies.
 
-
+**The `.pbix` file is included in this repository, but GitHub cannot preview it directly. Screenshots are provided below for quick review.**
